@@ -1,8 +1,8 @@
-# birthday_kids = {
-#   "Timmy" => 9,
-#   "Sarah" => 6,
-#   "Amanda" => 27
-# }
+birthday_kids = {
+  "Timmy" => 9,
+   "Sarah" => 6,
+   "Amanda" => 27
+ }
 
 #
 def happy_birthday(birthday_kids)
@@ -19,5 +19,4 @@ def age_appropriate_birthday(birthday_kids)
       puts "You are too old for this "
     end
   end
-
 end
